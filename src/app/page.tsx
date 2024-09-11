@@ -22,15 +22,15 @@ export default function Home() {
             </h2>
             <ul>
               <li>
-                <img src="https://uptime.com/images/homepage/TrustSupport.svg" />
+                <img src="https://uptime.com/images/homepage/TrustSupport.svg" alt="icon"/>
                 <p>Trusted for years to stay up</p>
               </li>
               <li>
-                <img src="https://uptime.com/images/homepage/Alerts.svg" />
+                <img src="https://uptime.com/images/homepage/Alerts.svg" alt="icon" />
                 <p>Real Time & Reliable Alerting</p>
               </li>
               <li>
-                <img src="https://uptime.com/images/homepage/Analysis.svg" />
+                <img src="https://uptime.com/images/homepage/Analysis.svg" alt="icon" />
                 <p>Quick Identification & Resolution of Outages</p>
               </li>
             </ul>
